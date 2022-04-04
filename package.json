@@ -6,8 +6,10 @@
   },
   "dependencies": {
     "express": "^4.17.1",
-    "fs-extra": "^10.0.1",
-    "imba": "^2.0.0-alpha.199"
+    "imba": "^2.0.0-alpha.204"
+  },
+  "devDependencies": {
+    "fs-extra": "^10.0.1"
   },
   "repository": "codeluggage/imba-static-site",
   "description": "Imba with no server side",
