@@ -2,10 +2,11 @@
   "name": "imba-static-site",
   "scripts": {
     "start": "imba -w server.imba",
-    "build": "imba build server.imba"
+    "build": "node build.js"
   },
   "dependencies": {
     "express": "^4.17.1",
+    "fs-extra": "^10.0.1",
     "imba": "^2.0.0-alpha.199"
   },
   "repository": "codeluggage/imba-static-site",
