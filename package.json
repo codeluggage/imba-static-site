@@ -1,0 +1,17 @@
+{
+  "name": "imba-static-site",
+  "scripts": {
+    "start": "imba -w server.imba",
+    "build": "imba build server.imba"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "imba": "^2.0.0-alpha.199"
+  },
+  "repository": "codeluggage/imba-static-site",
+  "description": "Imba with no server side",
+  "version": "0.0.1",
+  "homepage": "https://github.com/codeluggage/imba-static-site",
+  "author": "Matias Forbord (https://github.com/codeluggage)",
+  "license": "MIT"
+}
