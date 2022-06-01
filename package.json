@@ -2,7 +2,7 @@
   "name": "imba-static-site",
   "scripts": {
     "start": "imba -w server.imba",
-    "build": "node build.js"
+    "build": "imba build.imba"
   },
   "dependencies": {
     "express": "^4.17.1",
