@@ -1,3 +1,5 @@
+**NOTE: The newer https://github.com/imba/imba-vite-template is recommended for new projects. This repo will stay around as an ESBuild bundler alternative, but may not see many updates as we focus on Vite moving forwards.**
+
 # Building Imba for static hosting
 
 This is a starting point for building Imba to be hosted statically. It can also be used to build Imba into a native app with [imbutter](https://github.com/codeluggage/imbutter).
